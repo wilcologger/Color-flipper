@@ -15,7 +15,7 @@ Key concepts covered:
 - Math.random()
 - array.length
 
-![alt text](https://github.com/wilcologger/color-flipper/color-flipper.png)
+![alt text](https://github.com/wilcologger/Color-flipper/color-flipper.png)
 
 Here are the steps that a take to make this project.
 
