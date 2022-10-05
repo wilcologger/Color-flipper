@@ -1,7 +1,7 @@
 // Button ID
 const btn = document.getElementById("btn");
 // Array of colors values
-const colors = ["red", "green", "blue", "orange"];
+const colors = ["red", "green", "rgba(133,122,200)", "#f15025"];
 // Get color class
 const color = document.querySelector(".color");
 
