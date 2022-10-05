@@ -7,10 +7,11 @@ const color = document.querySelector(".color");
 
 // Click function
 btn.addEventListener("click", () => {
-  console.log("Click!");
+  // console.log("Click!");
+
   // Get random number between 0 - 3
   const randomNumber = getRandomNumber();
-  console.log(randomNumber);
+  // console.log(randomNumber);
 
   document.body.style.backgroundColor = colors[randomNumber];
   color.textContent = colors[randomNumber];
